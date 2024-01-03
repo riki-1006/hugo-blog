@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on RIKI&#39;s Diaries</title>
-    <link>http://example.org/categories/</link>
+    <link>https://riki-1006.github.io/hugo-blog/categories/</link>
     <description>Recent content in Categories on RIKI&#39;s Diaries</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://riki-1006.github.io/hugo-blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
