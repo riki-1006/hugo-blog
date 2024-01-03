@@ -4,5 +4,7 @@ title = "RIKI's Diaries"
 
 theme = "beautifulhugo"
 
+publishDir = "docs"
+
 [Params]
  subtitle = "学習記録"
